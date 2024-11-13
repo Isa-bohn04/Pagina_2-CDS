@@ -41,31 +41,31 @@ padding-right: 30px;
 display: flex;
 justify-content: center;
 }
-.estudante_titulo{
+.curso_titulo{
 padding: 50px;
 text-align: center;
 
 }
-.estudante-nome{
+.curso-nome{
 text-align: center;
 }
-.estudante-imagem{
+.curso-imagem{
 width: 120px;
 }
-.estudante-icone{
+.curso-icone{
 width: 38px;
 padding: 4px 8px;
 }
-.estudante{
+.curso{
 background-image: background-color(#faae43);
 padding: 24px 0;
 }
 
-.estudante.div{
+.curso.div{
 text-align: center;
 padding: 24px 0;
 }
-.estudantes_todos{
+.curso_todos{
 display: flex;
 justify-content: space-around;
 }
